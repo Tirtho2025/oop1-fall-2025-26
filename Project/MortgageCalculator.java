@@ -30,6 +30,6 @@ public class MortgageCalculator {
 
      
 
-
+       sc.close();
     }
 }
