@@ -66,7 +66,7 @@ class School {
 public class SchoolAssociation {
     public static void main(String[] args) {
 
-        School school = new School("ABC School", 2);
+        School school = new School("American Internation University of Bangladesh", 2);
 
         Contact c1 = new Contact("01411111111", "tirtho@gmail.com");
         Student s1 = new Student("Tirtho", c1);
